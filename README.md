@@ -26,7 +26,11 @@ The database consists of the following main tables:
 ## Entity Relationship Diagram
 ![Library ERD Diagram](/images/erd.JPG)
 
-## Setup Instructions
+## Setup Instructions Step 1
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/gracequaye1/Databasewk8_Assignment.git
+## Step 2
 1. Make sure you have MySQL installed
 2. Run the `library_db.sql` script to create the database and all tables
    ```bash
